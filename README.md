@@ -1,1 +1,1 @@
-# API_RickMorty
+# RickMorty
